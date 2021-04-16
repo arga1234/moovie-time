@@ -1,4 +1,4 @@
-# tmdb-vue
+# Moovie Time
 
 ## Project setup
 ```
